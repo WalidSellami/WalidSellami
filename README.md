@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 Hi 👋, I'm **Walid Flutter Mobile Developer**.<br>Skilled in building **high-performance**, **cross-platform apps** for **Android** using **Dart** & **Flutter**. <br>Experienced in **UI/UX design**, **state management (BLoC)**, **API integration**, and **Firebase**, delivering **scalable** and **engaging user experiences.**
 
 
