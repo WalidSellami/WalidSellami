@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm **Walid Flutter Developer (Mobile & Web)**.<br>Skilled in building **high-performance**, **cross-platform apps** for **Android**, **Web** using **Dart** & **Flutter**. <br>Experienced in **UI/UX design**, **state management (BLoC)**, **API integration**, and **Firebase**, delivering **scalable** and **engaging user experiences.**
+Hi 👋, I’m a **Flutter Developer (Mobile & Web)** passionate about creating **high-performance**, **cross-platform** applications for **Android** and **Web**.
+I specialize in **Flutter & Dart**, with experience in **UI/UX design**, **state management (BLoC)**, **API integration**, and **Firebase** to deliver scalable, user-friendly solutions.
 
 # 🌐 Socials:
  [![Email](https://img.shields.io/badge/Email-D14836?logo=maildotru&logoColor=white)](mailto:walid.sellami@zohomail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/walid.sellami.01) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+213799903926)
